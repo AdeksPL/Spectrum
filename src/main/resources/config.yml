@@ -1,0 +1,16 @@
+######################
+###    SPECTRUM    ###
+######################
+
+name: '&c&lWIDMO'
+
+spawn:
+  title: '&c&lWIDMO'
+  subtitle: '&6Stworzyles &fWIDMO&6!'
+
+
+items:
+  diamond:
+    material: 'DIAMOND'
+    data: 0
+    amount: 1

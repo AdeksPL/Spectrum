@@ -1,0 +1,4 @@
+name: 'Spectrum'
+main: 'net.unix.spectrum.basic.SpectrumPlugin'
+author: 'Unix'
+version: '1.0'
